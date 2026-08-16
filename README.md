@@ -2,14 +2,14 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,25:1E3A8A,50:2563EB,75:4F46E5,100:7C3AED&text=Garvit%20Pujari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=26\&duration=3000\&pause=1000\&color=6366F1\&center=true\&vCenter=true\&width=900\&lines=CSE+Student+%40+MAIT;AI+%26+ML+Engineer;Computer+Vision+Enthusiast;DSA+%26+Competitive+Programming;Building+AI-Powered+Systems)](https://git.io/typing-svg)
+
 
 <br/>
 
-![B.Tech](https://img.shields.io/badge/B.Tech-CSE-4F46E5?style=for-the-badge)
-![MAIT](https://img.shields.io/badge/MAIT-New%20Delhi-2563EB?style=for-the-badge)
-![AI/ML](https://img.shields.io/badge/Focus-AI%20%2F%20ML-7C3AED?style=for-the-badge)
-![Year](https://img.shields.io/badge/Year-2nd-0F172A?style=for-the-badge)
+
+
+
+
 
 <br/>
 
@@ -17,165 +17,196 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/">
+<a href="https://github.com/Garvitpujari">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge"/>
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&style=for-the-badge\&color=4F46E5)
+
 
 </div>
 
----
+👋 About Me
 
-# 👋 About Me
+I'm Garvit Pujari, a 2nd-year Computer Science & Engineering student at Maharaja Agrasen Institute of Technology (MAIT), New Delhi.
 
-I'm **Garvit Pujari**, a **2nd-year Computer Science & Engineering student at Maharaja Agrasen Institute of Technology (MAIT), New Delhi**.
+I'm primarily interested in Artificial Intelligence, Machine Learning, Computer Vision, Backend Engineering, and Data Structures & Algorithms.
 
-I'm primarily interested in **Artificial Intelligence, Machine Learning, Computer Vision, Backend Engineering, and Data Structures & Algorithms**.
+I enjoy going beyond tutorials and building complete systems — from training deep learning models and designing ML pipelines to deploying applications with APIs, Streamlit, Docker, and cloud platforms.
 
-I enjoy going beyond tutorials and building complete systems — from **training deep learning models and designing ML pipelines to deploying applications with APIs, Streamlit, Docker, and cloud platforms**.
+Currently, I'm exploring how modern AI systems can combine computer vision, temporal modeling, LLMs, RAG, and intelligent workflows to solve real-world problems.
 
-Currently, I'm exploring how modern AI systems can combine **computer vision, temporal modeling, LLMs, RAG, and intelligent workflows** to solve real-world problems.
+🚀 Currently Exploring
 
-### 🚀 Currently Exploring
+🤖 Machine Learning & Deep Learning
 
-* 🤖 Machine Learning & Deep Learning
-* 🎥 Computer Vision & Video Understanding
-* 🧠 LLMs, RAG & LangGraph
-* ☁️ AWS & ML Deployment
-* 📊 Time-Series & Forecasting
-* 🧩 Data Structures & Algorithms
-* ⚙️ Backend & API Development
+🎥 Computer Vision & Video Understanding
 
----
+🧠 LLMs, RAG & LangGraph
 
-# 🛠️ Tech Stack
+☁️ AWS & ML Deployment
 
-### Languages
+📊 Time-Series & Forecasting
+
+🧩 Data Structures & Algorithms
+
+⚙️ Backend & API Development
+
+🛠️ Tech Stack
+
+Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,html,css"/>
 </p>
 
-### AI / ML
+AI / ML
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python"/>
 </p>
 
-**Libraries & Frameworks**
+Libraries & Frameworks
 
-`NumPy` `Pandas` `Scikit-learn` `OpenCV` `PyTorch` `TensorFlow`
+NumPy Pandas Scikit-learn OpenCV PyTorch TensorFlow
 
-`YOLO` `Transformers` `LangChain` `LangGraph` `FAISS` `ChromaDB`
+YOLO Transformers LangChain LangGraph FAISS ChromaDB
 
-### Web & Backend
+Web & Backend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,flask"/>
 </p>
 
-`REST APIs` `FastAPI` `Streamlit`
+REST APIs FastAPI Streamlit
 
-### Cloud & Deployment
+Cloud & Deployment
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,docker,github,git"/>
 </p>
 
-`AWS SageMaker` `Hugging Face Spaces` `Docker` `GitHub`
+AWS SageMaker Hugging Face Spaces Docker GitHub
 
-### Databases
+Databases
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
 </p>
 
----
+🧠 Areas of Interest
 
-# 🧠 Areas of Interest
+Area
 
-| Area                | What I'm Working On                                        |
-| ------------------- | ---------------------------------------------------------- |
-| 🤖 Machine Learning | Predictive modeling, classification & regression           |
-| 🎥 Computer Vision  | Object detection, tracking & video understanding           |
-| 🧠 Deep Learning    | CNNs, Transformers, Mamba-based temporal models            |
-| 📚 LLM / RAG        | Document Q&A, embeddings, vector search & LLM applications |
-| 🔗 Agentic AI       | LangGraph workflows and stateful AI systems                |
-| 📈 Time Series      | Financial forecasting & sequential prediction              |
-| 🛰️ AI for Drones   | Detection, tracking & trajectory prediction                |
-| 💻 DSA              | Problem solving, algorithms & competitive programming      |
+What I'm Working On
 
----
+🤖 Machine Learning
 
-# 💼 Experience
+Predictive modeling, classification & regression
 
-## AI/ML Intern — Zenthos
+🎥 Computer Vision
 
-**AI/ML Engineering Internship**
+Object detection, tracking & video understanding
 
-Worked on an AI-based **Jewellery Theft Detection** system focused on understanding activities in video sequences.
+🧠 Deep Learning
 
-### Work involved
+CNNs, Transformers, Mamba-based temporal models
 
-* Video understanding for theft detection
-* Temporal modeling of video sequences
-* Deep learning experimentation
-* PyTorch-based model development
-* Mamba / MViT-based approaches
-* Dataset preparation and preprocessing
-* Training and evaluation of video models
+📚 LLM / RAG
 
-The project helped me gain practical experience with **video AI, temporal architectures, GPU training, and real-world ML pipelines**.
+Document Q&A, embeddings, vector search & LLM applications
 
----
+🔗 Agentic AI
 
-# 🚀 Featured Projects
+LangGraph workflows and stateful AI systems
 
-## 🛰️ AI-Based Drone Detection & Tracking
+📈 Time Series
+
+Financial forecasting & sequential prediction
+
+🛰️ AI for Drones
+
+Detection, tracking & trajectory prediction
+
+💻 DSA
+
+Problem solving, algorithms & competitive programming
+
+💼 Experience
+
+AI/ML Intern — Zenthos
+
+AI/ML Engineering Internship
+
+Worked on an AI-based Jewellery Theft Detection system focused on understanding activities in video sequences.
+
+Work involved
+
+Video understanding for theft detection
+
+Temporal modeling of video sequences
+
+Deep learning experimentation
+
+PyTorch-based model development
+
+Mamba / MViT-based approaches
+
+Dataset preparation and preprocessing
+
+Training and evaluation of video models
+
+The project helped me gain practical experience with video AI, temporal architectures, GPU training, and real-world ML pipelines.
+
+🚀 Featured Projects
+
+🛰️ AI-Based Drone Detection & Tracking
 
 An end-to-end computer vision system for detecting and tracking drones.
 
-**Tech:** `YOLOv11` `ByteTrack` `OpenCV` `Python` `Hugging Face`
+Tech: YOLOv11 ByteTrack OpenCV Python Hugging Face
 
-### Highlights
+Highlights
 
-* Fine-tuned YOLOv11 for drone detection
-* Built multi-object tracking using ByteTrack
-* Worked with the DUT Anti-UAV dataset
-* Achieved approximately **0.78 mAP@50** during experimentation
-* Deployed an interactive inference application
+Fine-tuned YOLOv11 for drone detection
 
----
+Built multi-object tracking using ByteTrack
 
-## 🧭 Drone Trajectory Prediction
+Worked with the DUT Anti-UAV dataset
+
+Achieved approximately 0.78 mAP@50 during experimentation
+
+Deployed an interactive inference application
+
+🧭 Drone Trajectory Prediction
 
 Deep learning pipeline for predicting future drone movement from sequential tracking data.
 
-**Tech:** `PyTorch` `LSTM` `GRU` `Computer Vision` `Time Series`
+Tech: PyTorch LSTM GRU Computer Vision Time Series
 
-### Highlights
+Highlights
 
-* Extracted motion features from detected bounding boxes
-* Engineered velocity, speed, heading and acceleration features
-* Created sliding temporal sequences
-* Trained LSTM-based trajectory prediction models
-* Experimented with future-frame prediction
-* Added threat assessment based on predicted movement
+Extracted motion features from detected bounding boxes
 
----
+Engineered velocity, speed, heading and acceleration features
 
-## 🎥 VideoMamba — Video Theft Detection
+Created sliding temporal sequences
+
+Trained LSTM-based trajectory prediction models
+
+Experimented with future-frame prediction
+
+Added threat assessment based on predicted movement
+
+🎥 VideoMamba — Video Theft Detection
 
 A temporal video understanding system designed to detect suspicious activity from video sequences.
 
-**Tech:** `PyTorch` `Mamba` `Transformers` `3D CNN` `Computer Vision`
+Tech: PyTorch Mamba Transformers 3D CNN Computer Vision
 
-### Architecture
+Architecture
 
-```text
 Video
   ↓
 Frame Sampling
@@ -189,37 +220,35 @@ Mamba / Transformer
 Interaction Representation
   ↓
 Classification
-```
 
-The project involved experimentation with **temporal buffers, sequential video clips, frame embeddings and long-range temporal understanding**.
+The project involved experimentation with temporal buffers, sequential video clips, frame embeddings and long-range temporal understanding.
 
----
-
-## 📈 Stock Market AI
+📈 Stock Market AI
 
 An end-to-end deep learning pipeline for stock time-series forecasting.
 
-**Tech:** `Python` `PyTorch` `PatchTST` `Yahoo Finance` `Pandas`
+Tech: Python PyTorch PatchTST Yahoo Finance Pandas
 
-### Highlights
+Highlights
 
-* Collected historical OHLCV data
-* Built rolling 90-day input windows
-* Created a large supervised time-series dataset
-* Experimented with transformer-based forecasting
-* Worked on GPU-based model training and evaluation
+Collected historical OHLCV data
 
----
+Built rolling 90-day input windows
 
-## 📚 RAG-Based Document Assistant
+Created a large supervised time-series dataset
+
+Experimented with transformer-based forecasting
+
+Worked on GPU-based model training and evaluation
+
+📚 RAG-Based Document Assistant
 
 A document question-answering system built around Retrieval-Augmented Generation.
 
-**Tech:** `LangChain` `FAISS` `Hugging Face Embeddings` `ChatGroq` `Streamlit`
+Tech: LangChain FAISS Hugging Face Embeddings ChatGroq Streamlit
 
-### Pipeline
+Pipeline
 
-```text
 PDF
  ↓
 Document Loader
@@ -235,46 +264,46 @@ Retriever
 LLM
  ↓
 Answer
-```
 
 The system can retrieve relevant sections from long documents and generate contextual answers using an LLM.
 
----
-
-## 💬 LangGraph AI Chatbot
+💬 LangGraph AI Chatbot
 
 A stateful conversational AI application using LangGraph.
 
-**Tech:** `LangGraph` `LangChain` `ChatGroq` `Streamlit` `SQLite`
+Tech: LangGraph LangChain ChatGroq Streamlit SQLite
 
-### Features
+Features
 
-* Stateful conversations
-* Conversation/thread management
-* Persistent checkpoints
-* Multiple chat sessions
-* Streamlit interface
-* LLM-powered responses
+Stateful conversations
 
----
+Conversation/thread management
 
-# 🧩 DSA & Competitive Programming
+Persistent checkpoints
 
-I regularly practice **Data Structures & Algorithms** and use competitive programming to improve problem-solving and algorithmic thinking.
+Multiple chat sessions
 
-### Topics I've worked with
+Streamlit interface
 
-`Arrays` `Strings` `Hashing` `Binary Search`
+LLM-powered responses
 
-`Stacks` `Queues` `Linked Lists` `Trees`
+🧩 DSA & Competitive Programming
 
-`Recursion` `Backtracking` `Dynamic Programming`
+I regularly practice Data Structures & Algorithms and use competitive programming to improve problem-solving and algorithmic thinking.
 
-`Greedy` `Sliding Window` `Two Pointers`
+Topics I've worked with
 
-`Bit Manipulation`
+Arrays Strings Hashing Binary Search
 
-### Platforms
+Stacks Queues Linked Lists Trees
+
+Recursion Backtracking Dynamic Programming
+
+Greedy Sliding Window Two Pointers
+
+Bit Manipulation
+
+Platforms
 
 <p align="center">
 
@@ -288,24 +317,26 @@ I regularly practice **Data Structures & Algorithms** and use competitive progra
 
 </p>
 
----
+🏆 Achievements & Activities
 
-# 🏆 Achievements & Activities
+🎯 Strong focus on Data Structures & Algorithms
 
-* 🎯 Strong focus on Data Structures & Algorithms
-* 💻 Solved **hundreds of DSA problems**
-* 🏗️ Built multiple end-to-end AI/ML projects
-* 🧠 Worked on real-world Computer Vision problems
-* ☁️ Experience with AWS/SageMaker-based ML workflows
-* 🚀 Participated in hackathons and technical projects
-* 🤝 Active in technical/student communities
-* 📚 Continuously exploring modern AI technologies
+💻 Solved hundreds of DSA problems
 
----
+🏗️ Built multiple end-to-end AI/ML projects
 
-# ☁️ AI / ML Journey
+🧠 Worked on real-world Computer Vision problems
 
-```text
+☁️ Experience with AWS/SageMaker-based ML workflows
+
+🚀 Participated in hackathons and technical projects
+
+🤝 Active in technical/student communities
+
+📚 Continuously exploring modern AI technologies
+
+☁️ AI / ML Journey
+
 Machine Learning
        ↓
 Deep Learning
@@ -319,19 +350,16 @@ LLMs & RAG
 Agentic AI
        ↓
 Production AI Systems
-```
 
-My goal is to become strong not just at **training models**, but at building **complete AI systems** that can actually be deployed and used.
+My goal is to become strong not just at training models, but at building complete AI systems that can actually be deployed and used.
 
----
-
-# 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Garvitpujarii&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garvitpujarii&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -339,25 +367,20 @@ My goal is to become strong not just at **training models**, but at building **c
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Garvitpujarii&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
-
-# 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Garvitpujarii/Garvitpujari/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
----
+🎯 Current Focus
 
-# 🎯 Current Focus
-
-```yaml
 learning:
   - Advanced Machine Learning
   - Deep Learning
@@ -386,25 +409,26 @@ exploring:
   - AI Automation
   - Generative AI
   - Production ML Systems
-```
 
----
-
-# 🌱 What I'm Looking For
+🌱 What I'm Looking For
 
 I'm interested in opportunities where I can work on:
 
-* 🤖 AI / ML Engineering
-* 👁️ Computer Vision
-* 💻 Software Engineering
-* 🧠 LLM & Agentic AI Systems
-* ☁️ ML Infrastructure & Deployment
-* 🚀 AI-focused startups and products
-* 🌍 Open-source projects
+🤖 AI / ML Engineering
 
----
+👁️ Computer Vision
 
-# 🤝 Let's Connect
+💻 Software Engineering
+
+🧠 LLM & Agentic AI Systems
+
+☁️ ML Infrastructure & Deployment
+
+🚀 AI-focused startups and products
+
+🌍 Open-source projects
+
+🤝 Let's Connect
 
 <div align="center">
 
@@ -412,7 +436,7 @@ I'm interested in opportunities where I can work on:
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/">
+<a href="https://github.com/Garvitpujari">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge"/>
 </a>
 
@@ -422,9 +446,9 @@ I'm interested in opportunities where I can work on:
 
 <div align="center">
 
-### Building. Learning. Experimenting. Repeating. 🚀
+Building. Learning. Experimenting. Repeating. 🚀
 
-*"Turning ideas into intelligent systems."*
+"Turning ideas into intelligent systems."
 
 </div>
 
