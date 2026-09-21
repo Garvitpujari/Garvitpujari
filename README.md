@@ -430,7 +430,7 @@ I'm interested in opportunities where I can work on:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0F172A,25:1E3A8A,50:2563EB,75:4F46E5,100:7C3AED"/> -->
 
-div align="center">
+<div align="center">
 
 👋 Hi, I'm Garvit Pujari
 
