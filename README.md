@@ -430,19 +430,14 @@ I'm interested in opportunities where I can work on:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0F172A,25:1E3A8A,50:2563EB,75:4F46E5,100:7C3AED"/> -->
 
+div align="center">
 
-<div align="center">
+👋 Hi, I'm Garvit Pujari
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,25:1E3A8A,50:2563EB,75:4F46E5,100:7C3AED&text=Garvit%20Pujari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+AI/ML Engineer • Generative AI Developer • Computer Vision • Full-Stack AI
 
-
-
-<br/>
-
-
-
-
-
+B.Tech Computer Science & Engineering @ Maharaja Agrasen Institute of Technology (MAIT), New Delhi
+3rd Year | 2024–2028 | CGPA: 9.03
 
 <br/>
 
@@ -450,17 +445,19 @@ I'm interested in opportunities where I can work on:
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge"/>
 </a>
 
-<a href="https://knowme-ai-mp1e.onrender.com/docs">
-<img src="https://img.shields.io/badge/Ask%20KnowMe%20AI-Chat-7C3AED?style=for-the-badge"/>
-</a>
-
 <a href="https://www.linkedin.com/in/garvit-pujari-919774328/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"/>
 </a>
 
+<a href="https://know-me-ai-qgcb-git-main-garvitpujaris-projects.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Ask%20Me%20AI-4F46E5?style=for-the-badge"/>
+</a>
+
 <br/><br/>
 
+🌐 Portfolio + KnowMe AI:
 
+Question on Me → KnowMe AI
 
 </div>
 
@@ -468,11 +465,9 @@ I'm interested in opportunities where I can work on:
 
 I'm Garvit Pujari, a 3rd-year Computer Science & Engineering student at Maharaja Agrasen Institute of Technology (MAIT), New Delhi.
 
-I'm primarily interested in Artificial Intelligence, Machine Learning, Computer Vision, Backend Engineering, and Data Structures & Algorithms.
+I'm focused on Artificial Intelligence, Machine Learning, Computer Vision, Generative AI, Agentic AI, Backend Engineering, Web Development, and Data Structures & Algorithms.
 
-I enjoy going beyond tutorials and building complete systems — from training deep learning models and designing ML pipelines to deploying applications with APIs, Streamlit, Docker, and cloud platforms.
-
-Currently, I'm exploring how modern AI systems can combine computer vision, temporal modeling, LLMs, RAG, and intelligent workflows to solve real-world problems.
+I enjoy building complete AI systems — from model training and RAG pipelines to FastAPI backends, React frontends, deployment, and production-style AI applications.
 
 🚀 Currently Exploring
 
@@ -480,15 +475,17 @@ Currently, I'm exploring how modern AI systems can combine computer vision, temp
 
 🎥 Computer Vision & Video Understanding
 
-🧠 LLMs, RAG & LangGraph
+🧠 LLMs, RAG & Agentic AI
 
-☁️ AWS & ML Deployment
+🔗 LangChain & LangGraph
 
-📊 Time-Series & Forecasting
+⚛️ React & Modern JavaScript
+
+🟢 Node.js & Backend Engineering
+
+☁️ Cloud & ML Deployment
 
 🧩 Data Structures & Algorithms
-
-⚙️ Backend & API Development
 
 🛠️ Tech Stack
 
@@ -498,41 +495,35 @@ Languages
 <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,html,css"/>
 </p>
 
-JavaScript HTML CSS
-
 AI / ML
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python"/>
 </p>
 
-Libraries & Frameworks
-
 NumPy Pandas Scikit-learn OpenCV PyTorch TensorFlow
-
 YOLO Transformers LangChain LangGraph FAISS ChromaDB
 
 Web & Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,react,nodejs,express,flask"/>
+<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,fastapi,flask"/>
 </p>
 
-React JavaScript Node.js Express.js HTML CSS REST APIs FastAPI Streamlit
+React JavaScript Node.js Express.js FastAPI Flask
+REST APIs Streamlit HTML CSS
 
 Cloud & Deployment
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,github,git"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,github,git,vercel"/>
 </p>
 
-AWS SageMaker Hugging Face Spaces Docker GitHub
+AWS SageMaker Hugging Face Spaces Docker GitHub Vercel Render
 
-Databases
+Databases & Vector Search
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
-</p>
+MongoDB MySQL PostgreSQL FAISS ChromaDB Vector Databases
 
 🧠 Areas of Interest
 
@@ -550,7 +541,7 @@ Object detection, tracking & video understanding
 
 🧠 Deep Learning
 
-CNNs, Transformers, Mamba-based temporal models
+CNNs, Transformers & Mamba-based temporal models
 
 📚 LLM / RAG
 
@@ -558,19 +549,19 @@ Document Q&A, embeddings, vector search & LLM applications
 
 🔗 Agentic AI
 
-LangGraph workflows and stateful AI systems
+LangGraph workflows and intelligent AI systems
 
-📈 Time Series
+⚛️ Web Development
 
-Financial forecasting & sequential prediction
+React frontends, JavaScript applications & AI-powered interfaces
+
+🟢 Backend Engineering
+
+FastAPI, Node.js, REST APIs & deployment
 
 🛰️ AI for Drones
 
 Detection, tracking & trajectory prediction
-
-🌐 Web Development
-
-React, JavaScript, Node.js, REST APIs & full-stack applications
 
 💻 DSA
 
@@ -578,11 +569,53 @@ Problem solving, algorithms & competitive programming
 
 💼 Experience
 
-AI/ML Intern — Zenthos
+🛰️ DRDO — DRISHTI AI
 
-AI/ML Engineering Internship
+AI/ML Intern
+Institute for Systems Studies & Analyses, DRDO, Metcalfe House, Delhi
+June 2026 – August 2026
 
-Worked on an AI-based Jewellery Theft Detection system focused on understanding activities in video sequences.
+Worked on DRISHTI AI: Drone Recognition, Intelligence, Surveillance, Trajectory & Hazard Identification, an AI-based drone intelligence pipeline.
+
+Work Involved
+
+Fine-tuned YOLOv11 for drone detection
+
+Implemented ByteTrack for persistent multi-object tracking
+
+Built an LSTM-based trajectory prediction pipeline
+
+Engineered motion features including velocity, speed, heading and acceleration
+
+Worked with the DUT Anti-UAV Tracking dataset
+
+Developed threat assessment using predicted drone movement and motion behaviour
+
+Built an end-to-end detection → tracking → prediction → threat assessment workflow
+
+Validated the pipeline through a Hugging Face prototype
+
+DRISHTI AI Pipeline
+
+Video
+  ↓
+YOLOv11 Drone Detection
+  ↓
+ByteTrack Tracking
+  ↓
+Motion Feature Extraction
+  ↓
+LSTM Trajectory Prediction
+  ↓
+Threat Assessment
+  ↓
+Intelligence Output
+
+💎 Zenthos — AI/ML Intern
+
+November 2025 – January 2026
+
+Worked on Jewellery Theft Detection and Video Intelligence using video understanding and temporal deep learning approaches.
 
 Work Involved
 
@@ -590,150 +623,79 @@ Video understanding for theft detection
 
 Temporal modeling of video sequences
 
-Deep learning experimentation
+Mamba / MambaVLT / VideoMambaPro-based experimentation
 
-PyTorch-based model development
-
-Mamba / MViT-based approaches
+CNN-based approaches
 
 Dataset preparation and preprocessing
 
+GPU-based model training using Kaggle T4
+
 Training and evaluation of video models
-
-The project helped me gain practical experience with video AI, temporal architectures, GPU training, and real-world ML pipelines.
-
-AI/ML Intern — DRDO — DRISHTI AI
-
-Institute for Systems Studies & Analyses (ISSA), DRDO, Metcalfe House, Delhi
-June 2026 – August 2026
-
-Worked on DRISHTI AI, a drone intelligence system combining computer vision, multi-object tracking, trajectory prediction, and threat assessment.
-
-Work Involved
-
-Fine-tuned YOLOv11 for drone detection using the DUT Anti-UAV Tracking dataset
-
-Built multi-object tracking with ByteTrack
-
-Extracted spatial and motion features from tracked drones
-
-Developed LSTM-based trajectory prediction for future drone movement
-
-Integrated detection, tracking, trajectory prediction, and threat assessment into an end-to-end pipeline
-
-Worked with real-world tracking data and sequential time-series inputs
-
-Built and tested an interactive prototype for the complete workflow
-
-The internship provided practical experience in computer vision, object tracking, trajectory prediction, deep learning, and end-to-end AI system development.
 
 🚀 Featured Projects
 
 🤖 Placement AI — AI Career Assistant
 
-An AI-powered placement and career assistant designed to simulate a complete technical hiring workflow.
+An AI-powered career assistant designed to simulate and support the placement preparation process.
 
-Tech: React JavaScript Python FastAPI LLMs RAG AI Agents
+Features
 
-Workflow
+📄 Resume Analysis — analyzes the candidate's resume and extracts relevant information
 
-Resume Upload
-     ↓
-Resume Analysis
-     ↓
-Personalized Interview Setup
-     ↓
-Human-Like AI Interview
-     ↓
-Dynamic Follow-Up Questions
-     ↓
-Coding Interview
-     ↓
-System Design Interview
-     ↓
-Personal AI Chatbot
-     ↓
-Response Analysis & Feedback
+🗣️ Human-like AI Interview — conducts interactive interviews with dynamic follow-up questions
 
-Highlights
+💻 Coding Interview — evaluates coding and problem-solving responses
 
-Resume analysis and candidate profiling
+🏗️ System Design Interview — tests system design understanding
 
-React-based frontend for the complete placement workflow
+🤖 Personal AI Chatbot — answers candidate-specific questions
 
-Human-like conversational interviews
+📊 Response Analysis — analyzes answers and provides feedback
 
-Dynamic and follow-up interview questions
-
-AI-powered coding interview system
-
-System design interview workflow
-
-Personal chatbot for candidate-specific questions
-
-Analysis of candidate responses
-
-AI-generated feedback and improvement insights
-
-React-based frontend for the complete user experience
-
-Backend APIs connecting the frontend with AI workflows
-
-🤖 Placement AI Agent
-
-An AI-powered career and interview assistant designed to simulate a complete placement preparation workflow.
-
-Tech: Python LLMs RAG LangGraph FastAPI React Generative AI
+🎯 Career Assistance — provides personalized guidance based on the candidate's profile
 
 Workflow
 
 Resume
   ↓
-Resume Analysis
+Candidate Profile
   ↓
-Personalized Interview Preparation
+AI Interview
   ↓
-Human-Like AI Interview
+Dynamic Follow-up Questions
   ↓
-Follow-up & Dynamic Questions
+Response Analysis
   ↓
-Response Analysis & Feedback
+Feedback & Improvement
+  ↓
+Career Assistance
 
-Core Systems
+Tech: LLMs RAG Python FastAPI React JavaScript AI Agents
 
-Resume Analysis — analyzes the candidate's resume and extracts relevant skills, experience, projects, and areas for improvement
+🌊 Wave Cleanup
 
-AI Interview System — conducts human-like interviews instead of using only fixed questions
+An environmental computer vision project for detecting waste and identifying pollution hotspots.
 
-Dynamic Follow-up Questions — generates follow-up questions based on the candidate's previous responses
-
-Coding Interview — provides coding-oriented interview problems and evaluates the candidate's responses
-
-System Design Interview — simulates system-design discussions and evaluates the candidate's reasoning
-
-Personal AI Chatbot — provides conversational career assistance and answers questions about the candidate's profile
-
-Response Analysis & Feedback — analyzes interview responses and provides actionable feedback
-
-The project focuses on creating a more realistic end-to-end AI placement assistant that combines resume intelligence, conversational AI, interviews, coding evaluation, system design, and personalized career guidance.
-
-🛰️ AI-Based Drone Detection & Tracking
-
-An end-to-end computer vision system for detecting and tracking drones.
-
-Tech: YOLOv11 ByteTrack OpenCV Python Hugging Face
+Tech: YOLOv8 Computer Vision Python React Maps
 
 Highlights
 
-Fine-tuned YOLOv11 for drone detection
+Waste detection using YOLOv8
 
-Built multi-object tracking using ByteTrack
+Detection across approximately 40 waste classes
 
-Worked with the DUT Anti-UAV dataset
+Pollution hotspot identification
 
-Achieved approximately 0.78 mAP@50 during experimentation
+Map-based visualization
 
-Deployed an interactive inference application
+Interactive frontend for visualizing environmental data
+
+🛰️ DRISHTI AI — Drone Intelligence
+
+An end-to-end drone intelligence system combining detection, tracking, trajectory prediction and threat assessment.
+
+Tech: YOLOv11 ByteTrack LSTM PyTorch OpenCV Hugging Face
 
 🧭 Drone Trajectory Prediction
 
@@ -777,30 +739,6 @@ Interaction Representation
   ↓
 Classification
 
-The project involved experimentation with temporal buffers, sequential video clips, frame embeddings and long-range temporal understanding.
-
-🧠 KnowMe AI — Personal Knowledge Assistant
-
-A personal RAG-powered AI assistant that answers questions about my background, education, experience, projects, skills, and technical work.
-
-Tech: React FastAPI LangChain FAISS Hugging Face Embeddings Groq
-
-Pipeline
-
-Knowledge Documents
-      ↓
-Chunking & Embeddings
-      ↓
-FAISS Vector Store
-      ↓
-Semantic Retrieval
-      ↓
-Groq LLM
-      ↓
-Context-Aware Answer
-
-Live Backend: Ask KnowMe AI
-
 📈 Stock Market AI
 
 An end-to-end deep learning pipeline for stock time-series forecasting.
@@ -813,11 +751,41 @@ Collected historical OHLCV data
 
 Built rolling 90-day input windows
 
-Created a large supervised time-series dataset
+Created a supervised time-series dataset
 
 Experimented with transformer-based forecasting
 
 Worked on GPU-based model training and evaluation
+
+🤖 KnowMe AI — Personal Knowledge Assistant
+
+An AI chatbot integrated with my portfolio that lets visitors ask questions about me — including my education, experience, projects, skills and technical background.
+
+🌐 Live Portfolio
+
+Question on Me → KnowMe AI
+
+RAG Architecture
+
+Visitor Question
+       ↓
+React Portfolio Chat Interface
+       ↓
+FastAPI Backend
+       ↓
+Query Embedding
+       ↓
+FAISS Vector Search
+       ↓
+Relevant Personal Knowledge
+       ↓
+Groq LLM
+       ↓
+AI Answer
+
+Tech: React JavaScript FastAPI RAG FAISS Hugging Face Embeddings Groq LangChain
+
+The portfolio itself acts as the frontend, while the KnowMe AI chatbot provides an interactive way for visitors to learn about my profile.
 
 📚 RAG-Based Document Assistant
 
@@ -843,8 +811,6 @@ LLM
  ↓
 Answer
 
-The system can retrieve relevant sections from long documents and generate contextual answers using an LLM.
-
 💬 LangGraph AI Chatbot
 
 A stateful conversational AI application using LangGraph.
@@ -869,28 +835,24 @@ LLM-powered responses
 
 I regularly practice Data Structures & Algorithms and use competitive programming to improve problem-solving and algorithmic thinking.
 
-Topics I've Worked With
+Topics
 
 Arrays Strings Hashing Binary Search
-
 Stacks Queues Linked Lists Trees
-
 Recursion Backtracking Dynamic Programming
-
 Greedy Sliding Window Two Pointers
-
 Bit Manipulation
 
 Platforms
 
 <p align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com/u/garvitpujari/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://codeforces.com/">
-<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<a href="https://github.com/Garvitpujari">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge"/>
 </a>
 
 </p>
@@ -927,7 +889,9 @@ LLMs & RAG
        ↓
 Agentic AI
        ↓
-Production AI Systems
+Full-Stack AI Systems
+       ↓
+Production AI
 
 My goal is to become strong not just at training models, but at building complete AI systems that can actually be deployed and used.
 
@@ -966,6 +930,8 @@ learning:
   - LLMs and RAG
   - Agentic AI
   - System Design
+  - React & JavaScript
+  - Node.js
   - Cloud & ML Deployment
 
 building:
@@ -973,15 +939,16 @@ building:
   - Computer Vision systems
   - LLM/RAG applications
   - Full-stack AI products
+  - React AI interfaces
+  - FastAPI backends
   - ML deployment pipelines
 
 improving:
   - Data Structures & Algorithms
   - Competitive Programming
   - Backend Engineering
-  - React & JavaScript Development
-  - Node.js & Full-Stack Web Applications
   - Software Architecture
+  - Full-Stack Development
 
 exploring:
   - Mamba and Temporal Models
@@ -1002,6 +969,8 @@ I'm interested in opportunities where I can work on:
 
 🧠 LLM & Agentic AI Systems
 
+⚛️ Full-Stack AI Development
+
 ☁️ ML Infrastructure & Deployment
 
 🚀 AI-focused startups and products
@@ -1020,6 +989,10 @@ I'm interested in opportunities where I can work on:
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"/>
 </a>
 
+<a href="https://know-me-ai-qgcb-git-main-garvitpujaris-projects.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Question%20on%20Me-4F46E5?style=for-the-badge"/>
+</a>
+
 </div>
 
 <br/>
@@ -1032,6 +1005,5 @@ Building. Learning. Experimenting. Repeating. 🚀
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0F172A,25:1E3A8A,50:2563EB,75:4F46E5,100:7C3AED"/> -->
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0F172A,25:1E3A8A,50:2563EB,75:4F46E5,100:7C3AED"/>
   
