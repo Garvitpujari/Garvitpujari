@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,25:1E3A8A,50:2563EB,75:4F46E5,100:7C3AED&text=Garvit%20Pujari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
@@ -428,4 +428,222 @@ I'm interested in opportunities where I can work on:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0F172A,25:1E3A8A,50:2563EB,75:4F46E5,100:7C3AED"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0F172A,25:1E3A8A,50:2563EB,75:4F46E5,100:7C3AED"/> -->
+
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,25:1E3A8A,50:2563EB,75:4F46E5,100:7C3AED&text=Garvit%20Pujari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=26\&duration=3000\&pause=1000\&color=6366F1\&center=true\&vCenter=true\&width=900\&lines=CSE+Student+%40+MAIT;AI+%26+ML+Engineer;Generative+AI+Developer;Full-Stack+AI+Developer;Computer+Vision+Enthusiast;DSA+%26+Problem+Solving;Building+AI-Powered+Systems)](https://git.io/typing-svg)
+
+<br/>
+
+![B.Tech](https://img.shields.io/badge/B.Tech-CSE-4F46E5?style=for-the-badge)
+![MAIT](https://img.shields.io/badge/MAIT-New%20Delhi-2563EB?style=for-the-badge)
+![AI/ML](https://img.shields.io/badge/Focus-AI%20%2F%20ML-7C3AED?style=for-the-badge)
+![Year](https://img.shields.io/badge/Year-3rd-0F172A?style=for-the-badge)
+
+<br/>
+
+<a href="https://github.com/Garvitpujari">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Garvitpujari\&style=for-the-badge\&color=4F46E5)
+
+</div>
+
+---
+
+# 👋 About Me
+
+I'm **Garvit Pujari**, a **3rd-year Computer Science & Engineering student at Maharaja Agrasen Institute of Technology (MAIT), New Delhi**.
+
+I'm primarily interested in **Artificial Intelligence, Machine Learning, Generative AI, Computer Vision, Full-Stack Development, Backend Engineering, and Data Structures & Algorithms**.
+
+I enjoy going beyond tutorials and building complete systems — from **training deep learning models and designing ML pipelines to building APIs, AI-powered applications, full-stack products, and deploying systems to the cloud**.
+
+I work across both **AI engineering and software development**, combining machine learning with modern technologies such as **React, JavaScript, Node.js, FastAPI, LangChain, LangGraph, and cloud platforms**.
+
+My goal is to build **production-oriented AI systems** that combine intelligent models, strong backend architecture, intuitive interfaces, and real-world usability.
+
+## 🚀 AI & Software Engineering Focus
+
+* 🤖 Machine Learning & Deep Learning
+* 🎥 Computer Vision & Video Understanding
+* 🧠 LLMs, RAG & LangGraph
+* 🤝 Agentic AI & AI Workflows
+* ⚛️ React & Modern Frontend Development
+* 🟨 JavaScript & Full-Stack Development
+* 🟢 Node.js & Express Backend Development
+* ⚙️ FastAPI, REST APIs & Backend Engineering
+* ☁️ AWS & ML Deployment
+* 📊 Time-Series & Forecasting
+* 🧩 Data Structures & Algorithms
+* 🚀 Building AI-powered Full-Stack Products
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,html,css"/>
+</p>
+
+### AI / ML
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python"/>
+</p>
+
+**Libraries & Frameworks**
+
+`NumPy` `Pandas` `Scikit-learn` `OpenCV` `PyTorch` `TensorFlow`
+
+`YOLO` `Transformers` `LangChain` `LangGraph` `FAISS` `ChromaDB`
+
+### Web & Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,flask"/>
+</p>
+
+`React` `JavaScript` `Node.js` `Express.js`
+
+`REST APIs` `FastAPI` `Flask` `Streamlit`
+
+### Cloud & Deployment
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,github,git"/>
+</p>
+
+`AWS SageMaker` `Hugging Face Spaces` `Docker` `GitHub`
+
+### Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
+</p>
+
+---
+
+# 🧠 Areas of Interest
+
+| Area | What I'm Working On |
+| ------------------- | ---------------------------------------------------------- |
+| 🤖 Machine Learning | Predictive modeling, classification & regression |
+| 🎥 Computer Vision | Object detection, tracking & video understanding |
+| 🧠 Deep Learning | CNNs, Transformers, Mamba-based temporal models |
+| 📚 LLM / RAG | Document Q&A, embeddings, vector search & LLM applications |
+| 🔗 Agentic AI | LangGraph workflows, tools, memory & stateful AI systems |
+| ⚛️ Full-Stack AI | React interfaces connected with AI/ML backends |
+| 🟢 Backend Engineering | Node.js, Express, FastAPI & REST APIs |
+| 📈 Time Series | Financial forecasting & sequential prediction |
+| 🛰️ AI for Drones | Detection, tracking & trajectory prediction |
+| 💻 DSA | Problem solving, algorithms & competitive programming |
+
+---
+
+# 💼 Experience
+
+## AI/ML Intern — DRISHTI AI, DRDO
+
+**Institute for Systems Studies & Analyses (ISSA), DRDO**  
+**June 2026 – August 2026**
+
+Worked on an AI-based **drone detection, tracking, and trajectory prediction pipeline** using computer vision and deep learning.
+
+### Work Involved
+
+* Fine-tuned **YOLOv11** for drone detection
+* Built multi-object tracking using **ByteTrack**
+* Worked with the **DUT Anti-UAV Tracking Dataset**
+* Extracted sequential tracking information from detected objects
+* Engineered motion features for trajectory prediction
+* Developed **LSTM/GRU-based trajectory prediction models**
+* Worked with sequential time-series data from drone movement
+* Integrated detection, tracking and trajectory prediction into a complete pipeline
+* Experimented with real-world computer vision and surveillance scenarios
+
+The internship provided practical experience in **Computer Vision, Object Detection, Multi-Object Tracking, Time-Series Modeling, Deep Learning, and real-world AI systems**.
+
+---
+
+## AI/ML Intern — Zenthos
+
+**AI/ML Engineering Internship**
+
+Worked on an AI-based **Jewellery Theft Detection** system focused on understanding activities in video sequences.
+
+### Work Involved
+
+* Video understanding for theft detection
+* Temporal modeling of video sequences
+* Deep learning experimentation
+* PyTorch-based model development
+* Mamba / MViT-based approaches
+* Dataset preparation and preprocessing
+* Training and evaluation of video models
+
+The project helped me gain practical experience with **video AI, temporal architectures, GPU training, and real-world ML pipelines**.
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI-Powered Placement & Interview Agent
+
+An AI-powered **placement preparation and technical interview platform** designed to simulate realistic interview experiences using conversational AI.
+
+The system aims to provide a **human-like interview experience** rather than a simple question-answer chatbot.
+
+**Tech:** `Generative AI` `LLMs` `RAG` `LangGraph` `React` `JavaScript` `FastAPI` `Node.js`
+
+### Features
+
+* 💻 AI-powered coding interview sessions
+* 📄 Resume-based interviews
+* 🧠 Technical interview preparation
+* 🏗️ System design interview sessions
+* 🤖 AI-powered technical interview chatbot
+* 🗣️ Human-like conversational interviews
+* 📊 Interview performance analysis
+* 🎯 Role-specific interview questions
+* 🔄 Dynamic follow-up questions
+* 🧩 Context-aware conversations
+* 📝 Resume and project-based questioning
+* 💡 Real-time AI feedback
+* 📈 Interview progress tracking
+
+### Interview Flow
+
+```text
+Candidate
+    ↓
+Select Interview Type
+    ↓
+Resume / Role / Skills
+    ↓
+AI Interviewer
+    ↓
+Questions
+    ↓
+Candidate Response
+    ↓
+AI Evaluation
+    ↓
+Follow-up Questions
+    ↓
+Performance Analysis
+    ↓
+Feedback & Improvement Areas
